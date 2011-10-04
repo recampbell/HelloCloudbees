@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello Cloudbees!</string>
+    <string name="build">Build my app!</string>
+    
+    <string name="building">Building...</string>
+    <string name="appBuild">Your app is build :)</string>
+    <string name="buildCanceled">Your build has been canceled :(</string>
+        
+    <string name="app_name">Hello Cloudbees</string>
+</resources>
